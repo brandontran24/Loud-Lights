@@ -6,7 +6,7 @@
   + Sponsored by Northrop Grumman
 
 ## Abstract
-Our goal was to build an LED display that would reflect the intensity of the music played
+Our goal was to build an LED display that would reflect the intensity of the music played.
 
 ## How It Works
 Using a Graphic Equalizer Display Filter chip, we split input audio into seven bands of frequencies. Our code translates the seven frequencies onto the LED display. We created multiple 'modes' for which the display shows patterns correlating to the input audio.
