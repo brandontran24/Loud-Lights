@@ -1,9 +1,9 @@
 # Loud Lights
 [![Project_Pic.png](https://s1.postimg.org/9ghfi1omz3/Project_Pic.png)](https://postimg.org/image/136mw4183v/)
-  + Brandon Tran
-  + Danielle Robinson
-  + Victoria Sneddon
-  + Sponsored by Northrop Grumman
+  + **Brandon Tran**
+  + **Danielle Robinson**
+  + **Victoria Sneddon**
+  + Sponsored by **Northrop Grumman**
 
 ## Abstract
 Our goal was to build an LED display that would reflect the intensity of the music played.
