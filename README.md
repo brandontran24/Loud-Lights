@@ -1,5 +1,5 @@
 # Loud Lights
-![Alt text](https://imgur.com/c97UVmN "Project Picture")\
+[![Project_Pic.png](https://s1.postimg.org/9ghfi1omz3/Project_Pic.png)](https://postimg.org/image/136mw4183v/)
   + Brandon Tran
   + Danielle Robinson
   + Victoria Sneddon
